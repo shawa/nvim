@@ -1,0 +1,3 @@
+# vi: ft=ruby
+brew 'lua-language-server'
+brew 'elixir-ls'
